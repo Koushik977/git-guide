@@ -1,0 +1,56 @@
+## What is a Repository?
+To do anything in GitHub, you’ll need to know how to first create a repository. 
+Repository is a directory or storage space where your projects can live. 
+It is like a folder on your local machine.
+
+## KeyWords:
+```Public Repo``` 
+  
+  Making a Github repo 'public' will mean that anyone can find it and fork it to get the source files for themselves. 
+  You can choose who can commit and others can commit by opening pull request.
+
+```Private Repo``` 
+
+  It's just a place to back-up your private code in a remote repository. Only those who you choose can see or commit.  
+
+```README File```
+  
+  It is used to give a short discription to your project. It can also be a set of instructions to download and setup your project on a local machine. 
+  'MarkDown' is a new language used to write the README files, this is similar to HTML.
+  Markdown is really simple to learn and use.
+  
+  Reference: (https://dillinger.io/)
+
+```gitignore```
+
+  It is a plain text file where each line contains a pattern for files/directories to ignore. 
+  
+  Example: compilation products, temporary files IDEs create, etc.
+
+```License```
+
+  Public repositories on GitHub are often used to share open source software. 
+  For your repository to truly be open source, you'll need to license it so that others are free to use, change, and distribute the software.
+  
+  What license should I choose?
+  You can find the answer in (https://choosealicense.com/)
+
+## Steps to be followed:
+1. Open your profile
+
+  ![Tut_pic_1]()
+
+2. Select ```Repositories``` 
+
+  ![Tut_pic_2]()
+
+3. Click ```New```
+
+  ![Tut_pic_3]()
+
+4. Name your repo and give a brief discription
+5. Choose between ```Public``` and ```Private``` based on your requirements.
+6. Add ```README```, ```.gitignore``` and ```license```
+7. Click ```Create repository```
+
+  ![Tut_pic_4]()
