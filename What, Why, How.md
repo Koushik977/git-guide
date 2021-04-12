@@ -13,6 +13,8 @@ There are a number of reasons..
 
     Create a free GitHub account (https://github.com/) and start using GitHub right away.
 2. Install Git
+
+    You can download Git from (https://git-scm.com/downloads) and follow the steps on the intaller.
 3. Create a Repository
 4. Create a Branch
 5. Create and Commit Changes to a Branch
